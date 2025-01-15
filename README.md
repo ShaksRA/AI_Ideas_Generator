@@ -1,4 +1,4 @@
-# AI IDEA GENERATOR
+# AI Prompt Assistant
 
 A modern, responsive web application that leverages OpenAI's GPT API to provide AI-powered responses to user prompts, with persistent storage using Supabase.
 
@@ -38,8 +38,8 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-ideas-generator.git
-   cd ai-ideas-generator
+   git clone https://github.com/yourusername/ai-prompt-app.git
+   cd ai-prompt-app
    ```
 
 2. Install dependencies:
