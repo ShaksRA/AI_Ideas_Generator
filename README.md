@@ -39,7 +39,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ai-ideas-generator.git
-   cd ai-prompt-app
+   cd ai-ideas-generator
    ```
 
 2. Install dependencies:
