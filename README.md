@@ -93,6 +93,11 @@ npm run preview
    - Large response lists may impact performance
    - No pagination implemented yet
 
+## Deployment 
+
+The following application is been deployed using netlify.app and each user needs to put user specific secret openai api key, supabase url key and supabase api key to run the application simultaneously.
+
+
 ## 📝 Future Improvements
 
 - [ ] Implement response pagination
