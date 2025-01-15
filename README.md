@@ -38,7 +38,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-prompt-app.git
+   git clone https://github.com/yourusername/ai-ideas-generator.git
    cd ai-prompt-app
    ```
 
