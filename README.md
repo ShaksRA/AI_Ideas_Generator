@@ -95,7 +95,7 @@ npm run preview
 
 ## Deployment 
 
-The following application is been deployed using netlify.app and each user needs to put user specific secret openai api key, supabase url key and supabase api key to run the application simultaneously.
+The following application is under deployment and modifications using netlify.app and each user needs to put user specific secret openai api key, supabase url key and supabase api key to run the application simultaneously.
 
 
 ## 📝 Future Improvements
